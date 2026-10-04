@@ -91,7 +91,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/GhostNaN/mpvpaper.git",
-                    "tag": "1.5"
+                    "tag": "1.9"
                 }
             ]
         },
@@ -163,7 +163,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/PSGtatitos/papyrus.git",
-                    "commit": "db5075f0de2a1a7d0ed5a931385055edec929593"
+                    "commit": "810938956fb08055011253eeb71b4ccff6d616e5"
                 }
             ]
         }
